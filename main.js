@@ -32,7 +32,7 @@ overlay.addEventListener("click", () => {
     overlay.classList.remove("show");
 
     // Aksi setelah klik
-    window.open("https://omg10.com/4/11412510", "_blank");
+    window.open("https://ythestarsarequ.com?tid=1479709", "_blank");
 });
 
 
