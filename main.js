@@ -32,7 +32,7 @@ overlay.addEventListener("click", () => {
     overlay.classList.remove("show");
 
     // Aksi setelah klik
-    window.open("https://omg10.com/4/10406731", "_blank");
+    window.open("https://omg10.com/4/11412510", "_blank");
 });
 
 
