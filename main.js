@@ -3,7 +3,7 @@ const shareBtn = document.getElementById("shareBtn");
 const shareLinks = document.getElementById("shareLinks");
 
 shareBtn.onclick = () => {
-    window.open("https://omg10.com/4/10406731", "_blank")
+    window.open("https://s.shopee.co.id/4fv09VUwyo", "_blank")
 };
 /* UNDANGAN */
 function joinWhatsAppGroup() {
@@ -32,7 +32,7 @@ overlay.addEventListener("click", () => {
     overlay.classList.remove("show");
 
     // Aksi setelah klik
-    window.open("https://ythestarsarequ.com?tid=1479709", "_blank");
+    window.open("https://s.shopee.co.id/4fv09VUwyo", "_blank");
 });
 
 
